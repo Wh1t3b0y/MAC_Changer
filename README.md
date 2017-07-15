@@ -8,11 +8,11 @@ Usage:
 
 If you want to change your MAC adress then type :
 
-./macchanger.sh
+''' ./macchanger.sh '''
 
 If you want to set back your original MAC adress then type :
 
-./permanentMAC.sh
+''' ./permanentMAC.sh '''
 
 Have a nice day...
 
